@@ -1,37 +1,42 @@
 ## <3 love online </3 : navigating connection, relationships and love in the digital age
 
-You can use the [editor on GitHub](https://github.com/andpersand/love-online/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>> description of the zine
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### who are we?
+(pls keep these descriptions to a short line - I think they should take up as little space as possible)
 
-### Markdown
+Yuan
+Gabriela
+Maggie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### who are you?
 
-```markdown
-Syntax highlighted code block
+You live in Montreal. You're a writer, a thinker, and activist, an artist, a creator, or something else entirely. You're part of a marginalized group. You may be BIPOC. You may be asexual, aromantic, allosexual, queer, LGBTQIA+, intersex, trans, agender, poly...  You may be 86 years old, or 14. But, you definitely hold intersectional feminist and anti-oppressive views. 
 
-# Header 1
-## Header 2
-### Header 3
+#### application process
 
-- Bulleted
-- List
+first, you submit a proposal to us (due by 23:59 EST on January 4th, 2019)
+  - you don't need to have a finished product to show us at this time
+then, we let you know if we like your proposal!
+next, you create your thing and send us a draft/WIP by 23:59 EST on January 25th
+finally, you submit your thing to us by 23:59 EST on February 1st, and we exchange payment!
 
-1. Numbered
-2. List
+#### what we're looking for 
 
-**Bold** and _Italic_ and `Code` text
+original works - nothing you've published previously elsewhere
+short - maximum 1500 words (i made this up it might be ridiculous)
 
-[Link](url) and ![Image](src)
-```
+#### submission process
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+email your applications to us at love-online@lol.lol (filler email pls change), and include your name and proposal title in the subject line. 
 
-### Jekyll Themes
+all proposals must be submitted by 23:59 EST on January 4th, 2019. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andpersand/love-online/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### timeline
 
-### Support or Contact
+proposal submission: 23:59 EST on January 4th
+final decision letters sent out: January 11th
+draft/WIP submission: 23:59 EST on January 25th
+finished work submission: 23:59 EST on February 1st
+zine publication: march 1st, 2019
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
