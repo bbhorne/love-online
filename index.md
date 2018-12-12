@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## <3 love online </3 : navigating connection, relationships and love in the digital age
 
 You can use the [editor on GitHub](https://github.com/andpersand/love-online/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
