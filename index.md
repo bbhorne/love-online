@@ -2,11 +2,14 @@
 
 (description of the zine)
 
-### who are we?
+#### who are we?
 (pls keep these descriptions to a short line - I think they should take up as little space as possible)
 
+
 Yuan
+
 Gabriela
+
 Maggie
 
 #### who are you?
@@ -26,6 +29,7 @@ finally, you submit your thing to us by 23:59 EST on February 1st, and we exchan
 #### what we're looking for 
 
 original works - nothing you've published previously elsewhere
+
 short - maximum 1500 words (i made this up it might be ridiculous)
 
 #### submission process
@@ -37,8 +41,12 @@ all proposals must be submitted by 23:59 EST on January 4th, 2019.
 #### timeline
 
 proposal submission: 23:59 EST on January 4th
+
 final decision letters sent out: January 11th
+
 draft/WIP submission: 23:59 EST on January 25th
+
 finished work submission: 23:59 EST on February 1st
+
 zine publication: march 1st, 2019
 
