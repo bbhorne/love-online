@@ -1,6 +1,6 @@
 ## <3 love online </3 : navigating connection, relationships and love in the digital age
 
->> description of the zine
+(description of the zine)
 
 ### who are we?
 (pls keep these descriptions to a short line - I think they should take up as little space as possible)
@@ -15,8 +15,7 @@ You live in Montreal. You're a writer, a thinker, and activist, an artist, a cre
 
 #### application process
 
-first, you submit a proposal to us (due by 23:59 EST on January 4th, 2019)
-  - you don't need to have a finished product to show us at this time
+first, you submit a proposal to us (due by 23:59 EST on January 4th, 2019) (you don't need to have a finished product to show us at this time)
 then, we let you know if we like your proposal!
 next, you create your thing and send us a draft/WIP by 23:59 EST on January 25th
 finally, you submit your thing to us by 23:59 EST on February 1st, and we exchange payment!
