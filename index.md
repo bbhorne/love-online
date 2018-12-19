@@ -1,34 +1,34 @@
 ## <3 love online </3 : navigating connection, relationships and love in the digital age
 
-<3 love online </3 is a zine examining how our relationship with the internet has affected our break-ups, hook-ups, meet-ups, and everything between. it is a multimedia concoction. we're hiring Montreal artists and writers belonging to marginalized groups to contribute pieces; contributors will be paid between $50-100 CAD. 
+**<3 love online </3** is a zine examining how our relationship with the internet has affected our break-ups, hook-ups, meet-ups, and everything between. it is a multimedia concoction. we're hiring Montreal artists and writers belonging to marginalized groups to contribute pieces; contributors will be paid between $50-100 CAD. 
 
 
-<3 </3 will be made available digitally (for free!!) and physically (PWYC).  we're publishing at the end of March 2019. 
+<3 </3 will be made available digitally (for *free!!*) and physically (PWYC).  we're publishing at the end of March 2019. 
 
 #### who are we? 
 
 our machines run on non-binary code. we write our scripts with the hope that they'll be rewritten, broken, torn and burned.
 we are...
 
-Yuan (pronouns (if you want) | short desc)
+*Yuan* (pronouns (if you want) | twitter handle if you want | short desc)
 
-Gabriela (pronouns (if you want) | short desc)
+*Gabriela* (pronouns (if you want) | twitter handle if you want | short desc)
 
-Maggie (she/they | @meochaidha | doing tech activism and digital security training and sometimes art) 
+*Maggie* (she/they | @meochaidha | doing tech activism and digital security training and sometimes art) 
 
 
-questions? contact us at love-online (at) riseup (dot) net. 
+questions? contact us at **love-online (at) riseup (dot) net**. 
 
 
 #### who are you?
 
 you live in Montreal. you're a writer, a thinker, and activist, an artist, a creator, or something else entirely. you're part of a marginalized group. you may be BIPOC. you may be asexual, aromantic, allosexual, queer, LGBTQIA+, intersex, trans, agender, poly...  you may be 86 years old, or 14. most importantly, you definitely hold intersectional feminist and anti-oppressive views. 
 
-(artists younger than 14 may submit to the zine, but must also submit an accompanying consent form, signed by both the artist and a guardian. if you need the consent form, please email us at love-online (at) riseup (dot) net.)
+(artists younger than 14 may submit to the zine, but must also submit an accompanying consent form, signed by both the artist and a guardian. if you need the consent form, please email us at **love-online (at) riseup (dot) net**.)
 
 #### application process
 
-first, you email us your application (found at the bottom of this page), including a rough draft of your project. (due by 23:59 EST on January 25th, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to love-online (at) riseup (dot) net.
+first, you email us your application (found at the bottom of this page), including a rough draft of your project. (due by 23:59 EST on January 25th, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online (at) riseup (dot) net**.
 
 next, we let you know if we like your proposal by February 1st! If you accept our offer, we'll send you the first part of your payment at this time. 
 
@@ -52,21 +52,21 @@ artwork must be high-resolution. accepted file formats are .xcf, .png, .psd, and
 
 #### submission process
 
-email your applications to us at love-online (at) riseup (dot) net, and include your name and proposal title in the subject line. 
+email your applications to us at **love-online (at) riseup (dot) net**, and include your name and project title in the subject line. 
 
-all proposals must be submitted by 23:59 EST on January 25th, 2019. 
+all applications must be submitted by 23:59 EST on January 25th, 2019. 
 
 #### timeline
 
-proposal & draft submission: 23:59 EST on January 25th
+*submission of application & first draft:* 23:59 EST on January 25th
 
-final decision letters sent out: February 1st
+*final decision letters sent out:* February 1st
 
-second draft/WIP submission: 23:59 EST on February 15th
+*submission of second draft/WIP:* 23:59 EST on February 15th
 
-finished work submission: 23:59 EST on March 1st
+*submission of finished piece:* 23:59 EST on March 1st
 
-zine publication: March 29th, 2019
+*zine publication:* March 29th, 2019
 
 ---------------
 
@@ -83,30 +83,32 @@ zine publication: March 29th, 2019
 
 ### the application
 
-Please send an email to love-online (at) riseup (dot) net with all of the following information. Please also attach a first draft of your piece. Accepted file formats include .pdf, .doc, .txt, .png, .psd, .xcf, and .ai. If you'd like to submit your work in another file format, please check with us first by emailing us at the above email address.  
+Please send an email to **love-online (at) riseup (dot) net** with all of the following information. Please also attach a first draft of your piece. Accepted file formats include .pdf, .doc, .txt, .png, .psd, .xcf, and .ai. If you'd like to submit your work in another file format, please check with us first by emailing us at the above email address.  
 
-Name:
+*fields with a '+' before them are required.*
 
-Gender (and pronouns):
+**+ Name:**
 
-Email:
+**Gender (and pronouns) ((both optional)):**
 
-Do you live in Montreal? 
+**+ Email:**
 
-How do you self-identify? Include as much or as little information as you'd like.
+**+ Do you live in Montreal?**
 
-How would you describe yourself in one sentence?
+**How do you self-identify? Include as much or as little information as you'd like.**
 
-What medium will you use for your project? (i.e. writing, watercolors, digital painting, etc.)
+**+ How would you describe yourself in one sentence?**
 
-Describe your project. (max 500 characters) 
+**+ What medium will you use for your project? (i.e. writing, watercolors, digital painting, etc.)**
 
-Why do you want your work to appear in this zine? (max 500 characters)
+**+ Describe your project. What will it address? How does it relate to our theme? (max 500 characters)** 
 
-If you're submitting a piece in writing, what language(s) will your piece appear in? 
+**+ Why do you want your work to appear in this zine? (max 500 characters)**
 
-Have you previously published this piece elsewhere?
+**If your project includes written or spoken or signed language, what language(s) will your piece appear in?**
 
-What amount of compensation are you requesting for your piece (btwn $50-100 CAD)?
+**+ Have you previously published this piece elsewhere?**
+
+**+ What amount of compensation are you requesting for your piece (btwn $50-100 CAD)?**
 
 
