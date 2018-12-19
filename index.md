@@ -10,11 +10,11 @@
 our machines run on non-binary code. we write our scripts with the hope that they'll be rewritten, broken, torn and burned.
 we are...
 
-*Yuan* (pronouns (if you want) | twitter handle if you want | short desc)
+*Yuan* (pronouns (if you want) - twitter handle if you want - short desc)
 
-*Gabriela* (pronouns (if you want) | twitter handle if you want | short desc)
+*Gabriela* (pronouns (if you want) - twitter handle if you want - short desc)
 
-*Maggie* (she/they | @meochaidha | doing tech activism and digital security training and sometimes art) 
+*Maggie* (she/they - @meochaidha - doing tech activism and digital security training and sometimes art) 
 
 
 questions? contact us at **love-online (at) riseup (dot) net**. 
