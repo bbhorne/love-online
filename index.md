@@ -9,7 +9,7 @@ we're hiring Montreal artists and writers belonging to marginalized groups to co
 
 #### who are we? 
 
-our machines run on non-binary code. we write our scripts with the hope that they'll be rewritten, broken, torn and burned.
+our machines run on nonbinary code. we write our scripts with the hope that they'll be rewritten, broken, torn and burned.
 we are...
 
 *Yuan* (pronouns (if you want) - twitter handle if you want - short desc)
