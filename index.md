@@ -19,18 +19,18 @@ our machines run on nonbinary code. we write our scripts with the hope that they
 *Maggie* (she/they - @meochaidha - doing tech activism and digital security training and sometimes art) 
 
 
-questions? contact us at **love-online (at) riseup (dot) net**. 
+questions? contact us at **love-online@riseup.net**. 
 
 
 #### who are you?
 
 you live in Montreal. you're a writer, a thinker, an activist, an artist, a creator, or something else entirely. you're part of a marginalized group. you may be BIPOC. you may be asexual, aromantic, allosexual, queer, LGBTQIA+, intersex, trans, nonbinary, agender, poly...  you may be 86 years old, or 14. most importantly, you definitely hold intersectional feminist and anti-oppressive views. 
 
-(artists younger than 14 may submit to the zine, but must also submit an accompanying consent form, signed by both the artist and a guardian. if you need the consent form, please email us at **love-online (at) riseup (dot) net**.)
+(artists younger than 14 may submit to the zine, but must also submit an accompanying consent form, signed by both the artist and a guardian. if you need the consent form, please email us at **love-online@riseup.net**.)
 
 #### application process
 
-first, you email us your application (found at the bottom of this page), including a rough draft of your original submission. (due by 23:59 EST on January 25th, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online (at) riseup (dot) net**.
+first, you email us your application (found at the bottom of this page), including a rough draft of your original submission. (due by 23:59 EST on January 25th, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online@riseup.net**.
 
 next, we let you know by February 1st if your draft has been accepted for publication. we can offer feedback upon request for pieces that did not make it into the zine, as part of our commitment to a transparent decision-making process. if you accept our offer, we'll send you the first part of your payment at this time. 
 
@@ -54,7 +54,7 @@ artwork must be high-resolution. accepted file formats are .xcf, .png, .psd, and
 
 #### submission process
 
-email your applications to us at **love-online (at) riseup (dot) net**, and include your name and project title in the subject line. 
+email your applications to us at **love-online@riseup.net**, and include your name and project title in the subject line. 
 
 all applications must be submitted by 23:59 EST on January 25th, 2019. 
 
@@ -85,7 +85,7 @@ all applications must be submitted by 23:59 EST on January 25th, 2019.
 
 ### the application
 
-Please send an email to **love-online (at) riseup (dot) net** with all of the following information. Please also attach a first draft of your piece. Accepted file formats include .pdf, .doc, .txt, .png, .psd, .xcf, and .ai. If you'd like to submit your work in another file format, please check with us first by emailing us at the above email address.  
+Please send an email to **love-online@riseup.net** with all of the following information. Please also attach a first draft of your piece. Accepted file formats include .pdf, .doc, .txt, .png, .psd, .xcf, and .ai. If you'd like to submit your work in another file format, please check with us first by emailing us at the above email address.  
 
 *fields with a '+' before them are required.*
 
