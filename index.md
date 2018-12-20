@@ -3,10 +3,10 @@
 **<3 love online </3** is a zine examining how our relationship with the internet has affected our relationships with one another - our break-ups, hook-ups, and everything in between. how is digital life affecting the way we love in our wider worlds? 
 
 we're hiring Montreal artists and writers belonging to marginalized groups to contribute pieces; contributors will be paid between $50-100 CAD, depending on how many submissions are accepted. 
+we're able to pay artists because of a generous grant from the [Digital Justice Lab](https://digitaljusticelab.ca/).
 
 <3 </3 will be made available digitally (for *free!!*) and physically (PWYC).  we're publishing at the end of March 2019. 
 
-this project has been generously funded by the [Digital Justice Lab](https://digitaljusticelab.ca/). 
 
 #### who are we? 
 
