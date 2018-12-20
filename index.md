@@ -1,6 +1,8 @@
 ## <3 love online </3 : navigating connection, relationships and love in the digital age
 
-**<3 love online </3** is a zine examining how our relationship with the internet has affected our break-ups, hook-ups, meet-ups, and everything between. it is a multimedia concoction. we're hiring Montreal artists and writers belonging to marginalized groups to contribute pieces; contributors will be paid between $50-100 CAD. 
+**<3 love online </3** is a zine examining how our relationship with the internet has affected our relationships with one another - our break-ups, hook-ups, and everything in between. how is digital life affecting the way we love in our wider worlds? 
+
+we're hiring Montreal artists and writers belonging to marginalized groups to contribute pieces; contributors will be paid between $50-100 CAD, depending on how many submissions are accepted. 
 
 
 <3 </3 will be made available digitally (for *free!!*) and physically (PWYC).  we're publishing at the end of March 2019. 
@@ -12,7 +14,7 @@ we are...
 
 *Yuan* (pronouns (if you want) - twitter handle if you want - short desc)
 
-*Gabriela* (pronouns (if you want) - twitter handle if you want - short desc)
+*Gabriela* (she/her - @gab_catalina - Colombiana, writer, powerfemme, researcher / community youth worker)
 
 *Maggie* (she/they - @meochaidha - doing tech activism and digital security training and sometimes art) 
 
@@ -22,19 +24,19 @@ questions? contact us at **love-online (at) riseup (dot) net**.
 
 #### who are you?
 
-you live in Montreal. you're a writer, a thinker, and activist, an artist, a creator, or something else entirely. you're part of a marginalized group. you may be BIPOC. you may be asexual, aromantic, allosexual, queer, LGBTQIA+, intersex, trans, agender, poly...  you may be 86 years old, or 14. most importantly, you definitely hold intersectional feminist and anti-oppressive views. 
+you live in Montreal. you're a writer, a thinker, an activist, an artist, a creator, or something else entirely. you're part of a marginalized group. you may be BIPOC. you may be asexual, aromantic, allosexual, queer, LGBTQIA+, intersex, trans, nonbinary, agender, poly...  you may be 86 years old, or 14. most importantly, you definitely hold intersectional feminist and anti-oppressive views. 
 
 (artists younger than 14 may submit to the zine, but must also submit an accompanying consent form, signed by both the artist and a guardian. if you need the consent form, please email us at **love-online (at) riseup (dot) net**.)
 
 #### application process
 
-first, you email us your application (found at the bottom of this page), including a rough draft of your project. (due by 23:59 EST on January 25th, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online (at) riseup (dot) net**.
+first, you email us your application (found at the bottom of this page), including a rough draft of your original submission. (due by 23:59 EST on January 25th, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online (at) riseup (dot) net**.
 
-next, we let you know if we like your proposal by February 1st! If you accept our offer, we'll send you the first part of your payment at this time. 
+next, we let you know by February 1st if your draft has been accepted for publication. if you accept our offer, we'll send you the first part of your payment at this time. 
 
-then, you create your thing and send us a second draft/W(ork)I(n)P(rogress) by 23:59 EST on February 15th.
+then, you continue working on your submission and send us a second draft/W(ork)I(n)P(rogress) by 23:59 EST on February 15th.
 
-finally, you submit your completed thing to us by 23:59 EST on March 1st, and we exchange the remainder of your payment!
+finally, you send us the completed final version of your submission by 23:59 EST on February 25th, and we send you the remainder of your payment.
 
 #### what we're looking for 
 
@@ -58,13 +60,13 @@ all applications must be submitted by 23:59 EST on January 25th, 2019.
 
 #### timeline
 
-*submission of application & first draft:* 23:59 EST on January 25th
+*submission of application & first draft:* 23:59 EST on January 25th, 2019
 
-*final decision letters sent out:* February 1st
+*final decision letters sent out:* February 1st, 2019
 
-*submission of second draft/WIP:* 23:59 EST on February 15th
+*submission of second draft/WIP:* 23:59 EST on February 15th, 2019
 
-*submission of finished piece:* 23:59 EST on March 1st
+*submission of finished piece:* 23:59 EST on February 25th, 2019
 
 *zine publication:* March 29th, 2019
 
