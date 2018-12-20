@@ -4,15 +4,15 @@
 
 we're hiring Montreal artists and writers belonging to marginalized groups to contribute pieces; contributors will be paid between $50-100 CAD, depending on how many submissions are accepted. 
 
-
 <3 </3 will be made available digitally (for *free!!*) and physically (PWYC).  we're publishing at the end of March 2019. 
+
+this project has been generously funded by the [Digital Justice Lab] (https://digitaljusticelab.ca/). 
 
 #### who are we? 
 
-our machines run on nonbinary code. we write our scripts with the hope that they'll be rewritten, broken, torn and burned.
-we are...
+our machines run on nonbinary code. we write our scripts with the hope that they'll be rewritten, broken, torn and burned. we are a few millennials who remember what dating was like before the internet, and we want to capture these collective memories before they're lost. we are...
 
-*Yuan* (pronouns (if you want) - twitter handle if you want - short desc)
+*Yuan* (pronounced you-anne, she/they - [@ystvns] (https://www.twitter.com/ystvns) - into tech + law + ethics + anti-oppression + harm reduction + doggos)
 
 *Gabriela* (she/her - @gab_catalina - Colombiana, writer, powerfemme, researcher / community youth worker)
 
@@ -32,7 +32,7 @@ you live in Montreal. you're a writer, a thinker, an activist, an artist, a crea
 
 first, you email us your application (found at the bottom of this page), including a rough draft of your original submission. (due by 23:59 EST on January 25th, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online (at) riseup (dot) net**.
 
-next, we let you know by February 1st if your draft has been accepted for publication. if you accept our offer, we'll send you the first part of your payment at this time. 
+next, we let you know by February 1st if your draft has been accepted for publication. we can offer feedback upon request for pieces that did not make it into the zine, as part of our commitment to a transparent decision-making process. if you accept our offer, we'll send you the first part of your payment at this time. 
 
 then, you continue working on your submission and send us a second draft/W(ork)I(n)P(rogress) by 23:59 EST on February 15th.
 
@@ -48,7 +48,7 @@ something that can fit in a zine. if you want to submit work in some medium othe
 
 works can be submitted in any language. however, if your work is written in a language other than English, French, or Spanish, please provide a translation in one of these languages so that we can make sure your submission aligns with our anti-oppressive values.
 
-short - maximum 1000 words, or 3 pages.
+short - maximum 1000 words, or 3 8&1/2 x 11 pages.
 
 artwork must be high-resolution. accepted file formats are .xcf, .png, .psd, and .ai. 
 
