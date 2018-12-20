@@ -6,13 +6,13 @@ we're hiring Montreal artists and writers belonging to marginalized groups to co
 
 <3 </3 will be made available digitally (for *free!!*) and physically (PWYC).  we're publishing at the end of March 2019. 
 
-this project has been generously funded by the [Digital Justice Lab] (https://digitaljusticelab.ca/). 
+this project has been generously funded by the [Digital Justice Lab](https://digitaljusticelab.ca/). 
 
 #### who are we? 
 
 our machines run on nonbinary code. we write our scripts with the hope that they'll be rewritten, broken, torn and burned. we are a few millennials who remember what dating was like before the internet, and we want to capture these collective memories before they're lost. we are...
 
-*Yuan* (pronounced you-anne, she/they - [@ystvns] (https://www.twitter.com/ystvns) - into tech + law + ethics + anti-oppression + harm reduction + doggos)
+*Yuan* (pronounced you-anne, she/they - [@ystvns](https://www.twitter.com/ystvns) - into tech + law + ethics + anti-oppression + harm reduction + doggos)
 
 *Gabriela* (she/her - @gab_catalina - Colombiana, writer, powerfemme, researcher / community youth worker)
 
