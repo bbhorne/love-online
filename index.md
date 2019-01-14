@@ -58,15 +58,15 @@ finally, you send us the completed final version of your submission by 23:59 EST
 
 #### timeline
 
-*submission of application & first draft: 23:59 EST on February 22nd, 2019
+*submission of application & first draft:* 23:59 EST on February 22nd, 2019
 
-*final decision letters sent out: March 1st, 2019
+*final decision letters sent out:* March 1st, 2019
 
-*submission of second draft/WIP (optional): 23:59 EST on March 15th, 2019
+*submission of second draft/WIP (optional):* 23:59 EST on March 15th, 2019
 
-*submission of finished piece: 23:59 EST on March 29th, 2019
+*submission of finished piece:* 23:59 EST on March 29th, 2019
 
-*zine publication: end of spring/beginning of summer 2019
+*zine publication:* end of spring/beginning of summer 2019
 
 ---------------
 
