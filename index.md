@@ -24,7 +24,7 @@ questions? contact us at **love-online@riseup.net**.
 
 #### who are you?
 
-you live in Montreal. you're a writer, a thinker, an activist, an artist, a creator, or something else entirely. you're part of a marginalized group. you may be BIPOC. you may be asexual, aromantic, allosexual, queer, LGBTQIA+, intersex, trans, nonbinary, agender, poly...  you may be 86 years old, or 14. most importantly, you definitely hold intersectional feminist and anti-oppressive views. 
+you live in Montreal. you're a writer, a thinker, an activist, an artist, a creator, or something else entirely. you're part of a marginalized group. you may be BIPOC. you may be asexual, aromantic, allosexual, queer, LGBTQIA+, intersex, trans, nonbinary, agender, poly...  you may be 86 years old, or 14. 
 
 (artists younger than 14 may submit to the zine, but must also submit an accompanying consent form, signed by both the artist and a guardian. if you need the consent form, please email us at **love-online@riseup.net**.)
 
@@ -33,6 +33,8 @@ you live in Montreal. you're a writer, a thinker, an activist, an artist, a crea
 original works - nothing you've published previously elsewhere
 
 pieces that relate directly to our theme (which can be found at the top of this page).
+
+we are looking to support artists who engage with intersectional feminism and anti-oppression, however they define those terms for themselves. 
 
 something that can fit in a zine. if you want to submit work in some medium other than text or image, tell us how you want your work included in the zine. 
 
