@@ -2,17 +2,19 @@
 
 **<3 love online </3** is a zine examining how our relationship with the internet has affected our relationships with one another - our break-ups, hook-ups, and everything in between. how is digital life affecting the way we love in our wider worlds? 
 
-we're hiring Montreal artists and writers belonging to marginalized groups to contribute pieces; contributors will be paid between $50-100 CAD, depending on how many submissions are accepted. 
+we're hiring artists and writers belonging to marginalized groups who are based in Canada to contribute pieces. we will give priority to people with a connection to montreal. 
+
+contributors will be paid between $75-125 CAD, depending on how many submissions are accepted. 
 we're able to pay artists because of a generous grant from the [Digital Justice Lab](https://digitaljusticelab.ca/).
 
-<3 </3 will be made available digitally (for *free!!*) and physically (PWYC).  we're publishing at the end of March 2019. 
+<3 </3 will be made available digitally (for *free!!*) and physically (PWYC).  we're publishing in spring/beginning of summer 2019.
 
 
 #### who are we? 
 
 our machines run on nonbinary code. we write our scripts with the hope that they'll be rewritten, broken, torn and burned. we are a few millennials who remember what dating was like before the internet, and we want to capture these collective memories before they're lost. we are...
 
-*Yuan* (pronounced you-anne, she/they - [@ystvns](https://www.twitter.com/ystvns) - into tech + law + ethics + anti-oppression + harm reduction + doggos)
+*Yuan* (pronounced you-anne, she/they - @ystvns - into tech + law + ethics + anti-oppression + harm reduction + doggos)
 
 *Gabriela* (she/her - @gab_catalina - Colombiana, writer, powerfemme, researcher / community youth worker)
 
@@ -24,7 +26,7 @@ questions? contact us at **love-online@riseup.net**.
 
 #### who are you?
 
-you live in Montreal. you're a writer, a thinker, an activist, an artist, a creator, or something else entirely. you're part of a marginalized group. you may be BIPOC. you may be asexual, aromantic, allosexual, queer, LGBTQIA+, intersex, trans, nonbinary, agender, poly...  you may be 86 years old, or 14. 
+you're based in Canada. you're a writer, a thinker, an activist, an artist, a creator, or something else entirely. you're part of a marginalized group. we hope you have a connection to Montreal. you may be BIPOC. you may be asexual, aromantic, allosexual, queer, LGBTQIA+, intersex, trans, nonbinary, agender, poly...  you may be 86 years old, or 14. 
 
 (artists younger than 14 may submit to the zine, but must also submit an accompanying consent form, signed by both the artist and a guardian. if you need the consent form, please email us at **love-online@riseup.net**.)
 
@@ -46,25 +48,25 @@ artwork must be high-resolution. accepted file formats are .xcf, .png, .psd, and
 
 #### application process
 
-first, you email us your application (found at the bottom of this page), including a rough draft of your original submission. (due by 23:59 EST on January 25th, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online@riseup.net**.
+first, you email us your application (found at the bottom of this page), including a rough draft of your original submission. (due by 23:59 EST on February 22nd, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online@riseup.net**.
 
-next, we let you know by February 1st if your draft has been accepted for publication. we can offer feedback upon request for pieces that did not make it into the zine, as part of our commitment to a transparent decision-making process. if you accept our offer, we'll send you the first part of your payment at this time. 
+next, we let you know by March 1st if your draft has been accepted for publication. we can offer feedback upon request for pieces that did not make it into the zine, as part of our commitment to a transparent decision-making process. if you accept our offer upon signed agreement, we'll send you the first part of your payment at this time.
 
-then, you continue working on your submission and send us a second draft/W(ork)I(n)P(rogress) by 23:59 EST on February 15th.
+then, you have the option to continue working on your submission and can choose to send us a second draft/W(ork)I(n)P(rogress) by 23:59 EST on March 15th.
 
-finally, you send us the completed final version of your submission by 23:59 EST on February 25th, and we send you the remainder of your payment.
+finally, you send us the completed final version of your submission by 23:59 EST on March 29th, and we send you the remainder of your payment.
 
 #### timeline
 
-*submission of application & first draft:* 23:59 EST on January 25th, 2019
+*submission of application & first draft: 23:59 EST on February 22nd, 2019
 
-*final decision letters sent out:* February 1st, 2019
+*final decision letters sent out: March 1st, 2019
 
-*submission of second draft/WIP:* 23:59 EST on February 15th, 2019
+*submission of second draft/WIP (optional): 23:59 EST on March 15th, 2019
 
-*submission of finished piece:* 23:59 EST on February 25th, 2019
+*submission of finished piece: 23:59 EST on March 29th, 2019
 
-*zine publication:* March 29th, 2019
+*zine publication: end of spring/beginning of summer 2019
 
 ---------------
 
@@ -83,7 +85,7 @@ finally, you send us the completed final version of your submission by 23:59 EST
 
 please send an email to **love-online@riseup.net** with all of the following information. include your name and submission title in the subject line. please also attach a first draft of your piece. accepted file formats include .pdf, .doc, .txt, .png, .psd, .xcf, and .ai. if you'd like to submit your work in another file format, please check with us first by emailing us at the above email address.  
 
-**all applications must be submitted by 23:59 EST on January 25th, 2019.**  
+**all applications must be submitted by 23:59 EST on February 22nd, 2019.**  
 
 
 
@@ -95,7 +97,7 @@ please send an email to **love-online@riseup.net** with all of the following inf
 
 **+ Email:**
 
-**+ Do you live in Montreal?**
+**+ Are you based in Canada? What is your connection to Montreal, if any?**
 
 **How do you self-identify? Include as much or as little information as you'd like.**
 
@@ -111,6 +113,6 @@ please send an email to **love-online@riseup.net** with all of the following inf
 
 **+ Have you previously published this piece elsewhere?**
 
-**+ What amount of compensation are you requesting for your piece (btwn $50-100 CAD)?**
+**+ What amount of compensation are you requesting for your piece (btwn $75-125 CAD)?**
 
 
