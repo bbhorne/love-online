@@ -5,7 +5,7 @@
 we're hiring Montreal artists and writers belonging to marginalized groups to contribute pieces; contributors will be paid between $50-100 CAD, depending on how many submissions are accepted. 
 we're able to pay artists because of a generous grant from the [Digital Justice Lab](https://digitaljusticelab.ca/).
 
-<3 </3 will be made available digitally (for *free!!*) and physically (PWYC).  we're publishing end of spring/beginning of summer 2019.
+<3 </3 will be made available digitally (for *free!!*) and physically (PWYC).  we're publishing at the end of March 2019. 
 
 
 #### who are we? 
@@ -34,9 +34,9 @@ original works - nothing you've published previously elsewhere
 
 pieces that relate directly to our theme (which can be found at the top of this page).
 
-we are looking to support artists who engage with intersectional feminism and anti-oppression, however they define those terms for themselves. 
-
 something that can fit in a zine. if you want to submit work in some medium other than text or image, tell us how you want your work included in the zine. 
+
+we are looking to support artists who engage with intersectional feminism and anti-oppression, however they define those terms for themselves. 
 
 works can be submitted in any language. however, if your work is written in a language other than English, French, or Spanish, please provide a translation in one of these languages so that we can make sure your submission aligns with our anti-oppressive values.
 
@@ -56,16 +56,15 @@ finally, you send us the completed final version of your submission by 23:59 EST
 
 #### timeline
 
-*submission of application & first draft: 23:59 EST on February 22nd, 2019
+*submission of application & first draft:* 23:59 EST on January 25th, 2019
 
-*final decision letters sent out: March 1st, 2019
+*final decision letters sent out:* February 1st, 2019
 
-*submission of second draft/WIP (optional): 23:59 EST on March 15th, 2019
+*submission of second draft/WIP:* 23:59 EST on February 15th, 2019
 
-*submission of finished piece: 23:59 EST on March 29th, 2019
+*submission of finished piece:* 23:59 EST on February 25th, 2019
 
-*zine publication: end of spring/beginning of summer, 2019
-
+*zine publication:* March 29th, 2019
 
 ---------------
 
