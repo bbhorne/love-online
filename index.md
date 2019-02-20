@@ -1,5 +1,7 @@
 ## <3 love online </3 : navigating connection, relationships and love in the digital age
 
+french version online here: [https://ystvns.github.io/lamour-enligne/](https://ystvns.github.io/lamour-enligne/
+
 **<3 love online </3** is a zine examining how our relationship with the internet has affected our relationships with one another - our break-ups, hook-ups, and everything in between. how is digital life affecting the way we love in our wider worlds? 
 
 we're hiring artists and writers belonging to marginalized groups who are based in Canada to contribute pieces. we will give priority to people with a connection to montreal. 
