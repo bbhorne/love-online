@@ -1,6 +1,6 @@
 ## <3 love online </3 : navigating connection, relationships and love in the digital age
 
-french version online here: [https://ystvns.github.io/lamour-enligne/](https://ystvns.github.io/lamour-enligne/
+french version online here: [https://ystvns.github.io/lamour-enligne/](https://ystvns.github.io/lamour-enligne/)
 
 **<3 love online </3** is a zine examining how our relationship with the internet has affected our relationships with one another - our break-ups, hook-ups, and everything in between. how is digital life affecting the way we love in our wider worlds? 
 
@@ -62,7 +62,7 @@ finally, you send us the completed final version of your submission by 23:59 EST
 
 *submission of application & first draft:* 23:59 EST on March 1st, 2019
 
-*final decision letters sent out:* March 1st, 2019
+*final decision letters sent out:* March 8th, 2019
 
 *submission of second draft/WIP (optional):* 23:59 EST on March 15th, 2019
 
