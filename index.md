@@ -48,7 +48,7 @@ artwork must be high-resolution. accepted file formats are .xcf, .png, .psd, and
 
 #### application process
 
-first, you email us your application (found at the bottom of this page), including a rough draft of your original submission. (due by 23:59 EST on February 22nd, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online@riseup.net**.
+first, you email us your application (found at the bottom of this page), including a rough draft of your original submission. (due by 23:59 EST on March 1st, 2019) (you don't need to have a finished product to show us at this time). You should include both your application and first draft in the same email, which you can send to **love-online@riseup.net**.
 
 next, we let you know by March 1st if your draft has been accepted for publication. we can offer feedback upon request for pieces that did not make it into the zine, as part of our commitment to a transparent decision-making process. if you accept our offer upon signed agreement, we'll send you the first part of your payment at this time.
 
@@ -58,7 +58,7 @@ finally, you send us the completed final version of your submission by 23:59 EST
 
 #### timeline
 
-*submission of application & first draft:* 23:59 EST on February 22nd, 2019
+*submission of application & first draft:* 23:59 EST on March 1st, 2019
 
 *final decision letters sent out:* March 1st, 2019
 
@@ -85,7 +85,7 @@ finally, you send us the completed final version of your submission by 23:59 EST
 
 please send an email to **love-online@riseup.net** with all of the following information. include your name and submission title in the subject line. please also attach a first draft of your piece. accepted file formats include .pdf, .doc, .txt, .png, .psd, .xcf, and .ai. if you'd like to submit your work in another file format, please check with us first by emailing us at the above email address.  
 
-**all applications must be submitted by 23:59 EST on February 22nd, 2019.**  
+**all applications must be submitted by 23:59 EST on March 1st, 2019.**  
 
 
 
